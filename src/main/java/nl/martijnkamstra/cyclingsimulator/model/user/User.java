@@ -1,4 +1,4 @@
-package nl.martijnkamstra.cyclingsimulator.user;
+package nl.martijnkamstra.cyclingsimulator.model.user;
 
 public class User {
     private long id;

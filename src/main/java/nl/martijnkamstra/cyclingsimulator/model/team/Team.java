@@ -1,4 +1,4 @@
-package nl.martijnkamstra.cyclingsimulator.team;
+package nl.martijnkamstra.cyclingsimulator.model.team;
 
 public class Team {
     private long id;

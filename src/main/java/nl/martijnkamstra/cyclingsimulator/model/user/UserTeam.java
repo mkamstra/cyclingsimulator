@@ -1,6 +1,6 @@
-package nl.martijnkamstra.cyclingsimulator.user;
+package nl.martijnkamstra.cyclingsimulator.model.user;
 
-import nl.martijnkamstra.cyclingsimulator.team.Team;
+import nl.martijnkamstra.cyclingsimulator.model.team.Team;
 
 import java.time.LocalDate;
 

@@ -1,8 +1,7 @@
-package nl.martijnkamstra.cyclingsimulator.team;
+package nl.martijnkamstra.cyclingsimulator.model.team;
 
 
-import nl.martijnkamstra.cyclingsimulator.rider.Rider;
-import nl.martijnkamstra.cyclingsimulator.team.Team;
+import nl.martijnkamstra.cyclingsimulator.model.rider.Rider;
 
 import java.time.LocalDate;
 
